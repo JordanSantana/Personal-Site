@@ -1,0 +1,6 @@
+{
+  "html.format.wrapAttributes": "force-aligned",
+  "prettier.ignorePath": ".prettierignore.html",
+  "prettier.requireConfig": true,
+  "prettier.requirePragma": false
+}
